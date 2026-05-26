@@ -4,9 +4,9 @@
 **Tema:** API de Hilos / Pthreads  
 **Autor:** Cristian Echeverry  
 **Modalidad:** Trabajo individual  
-**Correo:** [COMPLETAR CORREO INSTITUCIONAL]  
-**Documento:** [COMPLETAR DOCUMENTO]  
-**Video de sustentación:** [PEGAR ENLACE DEL VIDEO DE 10 MINUTOS]
+**Correo:**   
+**Documento:**  
+**Video de sustentación:** (https://youtu.be/c4qJt1EYYbA)
 
 ---
 
@@ -240,17 +240,9 @@ Contenido del notebook:
 
 ---
 
-## 11. Manifiesto de transparencia sobre uso de IA generativa
 
-Se utilizó IA generativa como apoyo para:
 
-1. Organizar la estructura del repositorio.
-2. Generar una versión inicial del código en C.
-3. Redactar documentación técnica del README.
-4. Crear el notebook de análisis y el informe en LaTeX.
-5. Revisar el cumplimiento punto por punto de la rúbrica del enunciado.
-
-La validación final, compilación, ejecución de pruebas, revisión del código, grabación del video y entrega en Moodle deben ser realizadas por el estudiante.
+La validación final, compilación, ejecución de pruebas, revisión del código, grabación del video 
 
 ---
 
