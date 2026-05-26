@@ -1,0 +1,17 @@
+# Resultados de pruebas cortas
+
+Estas pruebas verifican compilación y funcionamiento básico. No reemplazan el benchmark final con `n=2000000000`, que debe ejecutarse en el equipo de entrega usando `notebooks/analisis.ipynb` o `scripts/run_benchmarks.sh`.
+
+```text
+make: Nothing to be done for 'all'.
+\n[Prueba 1] pi serial con n=1000000
+program=pi_s n=1000000 pi=3.141592653589764 time=0.001872333
+\n[Prueba 2] pi paralelo con n=1000000 y 1 hilo
+program=pi_p n=1000000 threads=1 pi=3.141592653589764 time=0.005106366
+\n[Prueba 3] pi paralelo con n=1000000 y 2 hilos
+program=pi_p n=1000000 threads=2 pi=3.141592653589899 time=0.005661996
+\n[Prueba 4] Fibonacci con N=10
+1 2 3 5 8 13 21 34 55 89
+\n[Prueba 5] Fibonacci con N=15
+1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+```
